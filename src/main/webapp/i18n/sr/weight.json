@@ -1,0 +1,22 @@
+{
+    "minibookApp": {
+        "weight" : {
+            "home": {
+                "title": "Weights",
+                "createLabel": "Kreiraj novi Weight",
+                "createOrEditLabel": "Kreirajte ili izmenite Weight"
+            },
+            "created": "Kreiran je novi Weight pod nazivom {{ param }}",
+            "updated": "Weight pod nazivom {{ param }} je ažuriran",
+            "deleted": "Weight pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Weight pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Weight"
+            },
+            "date": "Date",
+            "user": "User"
+        }
+    }
+}

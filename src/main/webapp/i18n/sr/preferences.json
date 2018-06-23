@@ -1,0 +1,23 @@
+{
+    "minibookApp": {
+        "preferences" : {
+            "home": {
+                "title": "Preferences",
+                "createLabel": "Kreiraj novi Preferences",
+                "createOrEditLabel": "Kreirajte ili izmenite Preferences"
+            },
+            "created": "Kreiran je novi Preferences pod nazivom {{ param }}",
+            "updated": "Preferences pod nazivom {{ param }} je ažuriran",
+            "deleted": "Preferences pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Preferences pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Preferences"
+            },
+            "weekly_goal": "Weekly Goal",
+            "weight_units": "Weight Units",
+            "user": "User"
+        }
+    }
+}

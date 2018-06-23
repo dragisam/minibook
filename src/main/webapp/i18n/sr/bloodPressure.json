@@ -1,0 +1,24 @@
+{
+    "minibookApp": {
+        "bloodPressure" : {
+            "home": {
+                "title": "Blood Pressures",
+                "createLabel": "Kreiraj novi Blood Pressure",
+                "createOrEditLabel": "Kreirajte ili izmenite Blood Pressure"
+            },
+            "created": "Kreiran je novi Blood Pressure pod nazivom {{ param }}",
+            "updated": "Blood Pressure pod nazivom {{ param }} je ažuriran",
+            "deleted": "Blood Pressure pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Blood Pressure pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Blood Pressure"
+            },
+            "date": "Date",
+            "sistolic": "Sistolic",
+            "diastolic": "Diastolic",
+            "user": "User"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "minibookApp": {
+        "Units" : {
+            "null": "",
+            "kg": "kg",
+            "lb": "lb"
+        }
+    }
+}
